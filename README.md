@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> 
 
-<table border="0">
+<table border="0" style="width:100%">
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedytedesco&hide=html&layout=compact" /></td>
   </tr> 
