@@ -16,12 +16,6 @@ Curious what I've been working on recently?
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### 📈 Stats
-
-<img align="right" alt="Kennedy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KennedyTedesco&count_private=1&show_icons=true&" />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyTedesco)
-
 #### How to reach me
 
 - Twitter: [@KennedyTedesco](https://twitter.com/KennedyTedesco)
