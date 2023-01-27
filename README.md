@@ -4,9 +4,8 @@ My name is Kennedy Tedesco, I'm a Developer from 🇧🇷. I work primarily with
 
 Curious what I've been working on recently?
 
----
+#### Check out what I'm currently working on 🚀
 
-#### 👷 Check out what I'm currently working on
 
 - [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (1 day ago)
 - [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) - Documentation website for Ara programming language 🕸 (3 days ago)
@@ -17,9 +16,8 @@ Curious what I've been working on recently?
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust. (3 weeks ago)
 - [webbingbrasil/filament-datefilter](https://github.com/webbingbrasil/filament-datefilter) -  (4 months ago)
 
----
+#### Latest releases I've contributed to 🆕
 
-#### 🔭 Latest releases I've contributed to
 
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.3](https://github.com/ara-lang/parser/releases/tag/0.6.3), 1 day ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.4.1](https://github.com/azjezz/psl/releases/tag/2.4.1), 1 day ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
@@ -30,17 +28,13 @@ Curious what I've been working on recently?
 - [webbingbrasil/filament-datefilter](https://github.com/webbingbrasil/filament-datefilter) ([1.1.1](https://github.com/webbingbrasil/filament-datefilter/releases/tag/1.1.1), 3 months ago) - 
 - [KennedyTedesco/Validation](https://github.com/KennedyTedesco/Validation) ([v9.0.0](https://github.com/KennedyTedesco/Validation/releases/tag/v9.0.0), 8 months ago) - The power of Respect Validation on Laravel
 
----
-
-#### 📊 My stats
+#### 📈 Stats
 
 <img align="right" alt="Kennedy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KennedyTedesco&count_private=1&show_icons=true&" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyTedesco)
 
----
-
-#### 📫 How to reach me
+#### How to reach me
 
 - Twitter: [@KennedyTedesco](https://twitter.com/KennedyTedesco)
 - Mastodon: [@KennedyTedesco](https://fosstodon.org/@KennedyTedesco)
