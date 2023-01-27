@@ -28,12 +28,6 @@ Curious what I've been working on recently?
 - [webbingbrasil/filament-datefilter](https://github.com/webbingbrasil/filament-datefilter) ([1.1.1](https://github.com/webbingbrasil/filament-datefilter/releases/tag/1.1.1), 3 months ago) - 
 - [KennedyTedesco/Validation](https://github.com/KennedyTedesco/Validation) ([v9.0.0](https://github.com/KennedyTedesco/Validation/releases/tag/v9.0.0), 8 months ago) - The power of Respect Validation on Laravel
 
-#### 📈 Stats
-
-<img align="right" alt="Kennedy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KennedyTedesco&count_private=1&show_icons=true&" />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyTedesco)
-
 #### How to reach me
 
 - Twitter: [@KennedyTedesco](https://twitter.com/KennedyTedesco)
