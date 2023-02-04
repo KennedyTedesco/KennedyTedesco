@@ -7,6 +7,7 @@ Curious what I've been working on recently?
 #### Check out what I'm currently working on 🚀
 
 
+- [ara-lang/forest](https://github.com/ara-lang/forest) - A cached, multi-threaded parsing library for Ara Programming Language 🍃 (today)
 - [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (1 day ago)
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) - A Reporting library for for Ara Programming Language 📃 (5 days ago)
 - [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) - Documentation website for Ara programming language 🕸 (1 week ago)
@@ -14,7 +15,6 @@ Curious what I've been working on recently?
 - [ara-lang/highlighting](https://github.com/ara-lang/highlighting) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌 (3 weeks ago)
 - [ara-lang/source](https://github.com/ara-lang/source) - A Source library for Ara Programming Language 🗃 (3 weeks ago)
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust. (1 month ago)
-- [webbingbrasil/filament-datefilter](https://github.com/webbingbrasil/filament-datefilter) -  (5 months ago)
 
 #### Latest releases I've contributed to 🆕
 
