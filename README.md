@@ -19,7 +19,7 @@ Curious what I've been working on recently?
 #### Latest releases I've contributed to 🆕
 
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.1.5](https://github.com/laravel/framework/releases/tag/v10.1.5), 5 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.1.5](https://github.com/laravel/framework/releases/tag/v10.1.5), 6 days ago) - The Laravel Framework.
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 4 weeks ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.6.1](https://github.com/ara-lang/reporting/releases/tag/0.6.1), 1 month ago) - A Reporting library for for Ara Programming Language 📃
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.4.1](https://github.com/azjezz/psl/releases/tag/2.4.1), 1 month ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
