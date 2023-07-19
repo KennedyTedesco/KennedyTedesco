@@ -7,7 +7,7 @@ Curious what I've been working on recently?
 #### Check out what I'm currently working on 🚀
 
 
-- [KennedyTedesco/grokking-algorithms-rust](https://github.com/KennedyTedesco/grokking-algorithms-rust) - Grokking Algorithms implementations in Rust (1 day ago)
+- [KennedyTedesco/grokking-algorithms-rust](https://github.com/KennedyTedesco/grokking-algorithms-rust) - Grokking Algorithms implementations in Rust (2 days ago)
 - [ara-lang/source](https://github.com/ara-lang/source) - A Source library for Ara Programming Language 🗃 (5 months ago)
 - [ara-lang/forest](https://github.com/ara-lang/forest) - A cached, multi-threaded parsing library for Ara Programming Language 🍃 (5 months ago)
 - [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (5 months ago)
