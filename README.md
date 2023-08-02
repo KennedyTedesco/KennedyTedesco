@@ -20,7 +20,7 @@ Curious what I've been working on recently?
 
 
 - [laravel/framework](https://github.com/laravel/framework) ([v10.16.0](https://github.com/laravel/framework/releases/tag/v10.16.0), 1 week ago) - The Laravel Framework.
-- [azjezz/psl](https://github.com/azjezz/psl) ([2.7.0](https://github.com/azjezz/psl/releases/tag/2.7.0), 1 week ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [azjezz/psl](https://github.com/azjezz/psl) ([2.7.0](https://github.com/azjezz/psl/releases/tag/2.7.0), 2 weeks ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 5 months ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.6.1](https://github.com/ara-lang/reporting/releases/tag/0.6.1), 6 months ago) - A Reporting library for for Ara Programming Language 📃
 - [ara-lang/highlighting](https://github.com/ara-lang/highlighting) ([v0.1.2](https://github.com/ara-lang/highlighting/releases/tag/v0.1.2), 6 months ago) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌
