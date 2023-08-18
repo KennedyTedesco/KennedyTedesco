@@ -19,9 +19,9 @@ Curious what I've been working on recently?
 #### Latest releases I've contributed to 🆕
 
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.0.26](https://github.com/filamentphp/filament/releases/tag/v3.0.26), today) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
-- [laravel/framework](https://github.com/laravel/framework) ([v10.19.0](https://github.com/laravel/framework/releases/tag/v10.19.0), 2 days ago) - The Laravel Framework.
-- [azjezz/psl](https://github.com/azjezz/psl) ([2.7.0](https://github.com/azjezz/psl/releases/tag/2.7.0), 4 weeks ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.0.26](https://github.com/filamentphp/filament/releases/tag/v3.0.26), 1 day ago) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.19.0](https://github.com/laravel/framework/releases/tag/v10.19.0), 3 days ago) - The Laravel Framework.
+- [azjezz/psl](https://github.com/azjezz/psl) ([2.7.0](https://github.com/azjezz/psl/releases/tag/2.7.0), 1 month ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 6 months ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.6.1](https://github.com/ara-lang/reporting/releases/tag/0.6.1), 6 months ago) - A Reporting library for for Ara Programming Language 📃
 - [ara-lang/highlighting](https://github.com/ara-lang/highlighting) ([v0.1.2](https://github.com/ara-lang/highlighting/releases/tag/v0.1.2), 7 months ago) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌
