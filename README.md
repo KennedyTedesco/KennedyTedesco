@@ -7,13 +7,13 @@ Curious what I've been working on recently?
 #### Check out what I'm currently working on 🚀
 
 
+- [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (today)
 - [KennedyTedesco/monkey](https://github.com/KennedyTedesco/monkey) - The Monkey Programming Language &amp; Interpreter written in PHP. (3 weeks ago)
 - [KennedyTedesco/meilisearch-search-filter](https://github.com/KennedyTedesco/meilisearch-search-filter) - A fluent and intuitive way to construct filters for Meilisearch queries. (4 weeks ago)
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS. (1 month ago)
 - [KennedyTedesco/grokking-algorithms-rust](https://github.com/KennedyTedesco/grokking-algorithms-rust) - Grokking Algorithms implementations in Rust (2 months ago)
 - [ara-lang/source](https://github.com/ara-lang/source) - A Source library for Ara Programming Language 🗃 (7 months ago)
 - [ara-lang/forest](https://github.com/ara-lang/forest) - A cached, multi-threaded parsing library for Ara Programming Language 🍃 (7 months ago)
-- [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (7 months ago)
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) - A Reporting library for for Ara Programming Language 📃 (8 months ago)
 
 #### Latest releases I've contributed to 🆕
