@@ -19,7 +19,7 @@ Curious what I've been working on recently?
 #### Latest releases I've contributed to 🆕
 
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.26.0](https://github.com/laravel/framework/releases/tag/v10.26.0), today) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v9.52.16](https://github.com/laravel/framework/releases/tag/v9.52.16), today) - The Laravel Framework.
 - [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.0.63](https://github.com/filamentphp/filament/releases/tag/v3.0.63), 3 days ago) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [KennedyTedesco/meilisearch-search-filter](https://github.com/KennedyTedesco/meilisearch-search-filter) ([v1.0](https://github.com/KennedyTedesco/meilisearch-search-filter/releases/tag/v1.0), 1 month ago) - A fluent and intuitive way to construct filters for Meilisearch queries.
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.7.0](https://github.com/azjezz/psl/releases/tag/2.7.0), 2 months ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
