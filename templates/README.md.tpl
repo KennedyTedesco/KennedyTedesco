@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My name is Kennedy Tedesco, I'm a Developer from 🇧🇷. I work primarily with 🐘 PHP, but in a real crush on 🦀 Rust, systems aspects, interpreters, parsers, etc.
+My name is Kennedy Tedesco, born in Brazil 🇧🇷, but also an Italian 🇮🇹 citizen. I primarily work with PHP, but I have a real crush on Rust, system aspects, interpreters, parsers, etc.
 
 Curious what I've been working on recently?
 
