@@ -19,7 +19,7 @@ Curious what I've been working on recently?
 #### Latest releases I've contributed to 🆕
 
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.2.1](https://github.com/laravel/octane/releases/tag/v2.2.1), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.2.3](https://github.com/laravel/octane/releases/tag/v2.2.3), today) - Supercharge your Laravel application&#39;s performance.
 - [laravel/framework](https://github.com/laravel/framework) ([v10.38.0](https://github.com/laravel/framework/releases/tag/v10.38.0), 1 day ago) - The Laravel Framework.
 - [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.1.24](https://github.com/filamentphp/filament/releases/tag/v3.1.24), 1 day ago) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.1](https://github.com/dunglas/frankenphp/releases/tag/v1.0.1), 2 days ago) - The modern PHP app server
