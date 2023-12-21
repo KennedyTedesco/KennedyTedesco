@@ -20,13 +20,13 @@ Curious what I've been working on recently?
 
 
 - [laravel/octane](https://github.com/laravel/octane) ([v2.2.3](https://github.com/laravel/octane/releases/tag/v2.2.3), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [laravel/framework](https://github.com/laravel/framework) ([v10.38.0](https://github.com/laravel/framework/releases/tag/v10.38.0), 2 days ago) - The Laravel Framework.
 - [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.1.24](https://github.com/filamentphp/filament/releases/tag/v3.1.24), 2 days ago) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.1](https://github.com/dunglas/frankenphp/releases/tag/v1.0.1), 3 days ago) - The modern PHP app server
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.8.0](https://github.com/azjezz/psl/releases/tag/2.8.0), 4 weeks ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [KennedyTedesco/meilisearch-search-filter](https://github.com/KennedyTedesco/meilisearch-search-filter) ([v1.0](https://github.com/KennedyTedesco/meilisearch-search-filter/releases/tag/v1.0), 3 months ago) - A fluent and intuitive way to construct filters for Meilisearch queries.
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 10 months ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.6.1](https://github.com/ara-lang/reporting/releases/tag/0.6.1), 10 months ago) - A Reporting library for for Ara Programming Language 📃
+- [ara-lang/highlighting](https://github.com/ara-lang/highlighting) ([v0.1.2](https://github.com/ara-lang/highlighting/releases/tag/v0.1.2), 11 months ago) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌
 
 #### How to reach me
 
