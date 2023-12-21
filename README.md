@@ -19,8 +19,8 @@ Curious what I've been working on recently?
 #### Latest releases I've contributed to 🆕
 
 
+- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.1.25](https://github.com/filamentphp/filament/releases/tag/v3.1.25), today) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [laravel/octane](https://github.com/laravel/octane) ([v2.2.3](https://github.com/laravel/octane/releases/tag/v2.2.3), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.1.24](https://github.com/filamentphp/filament/releases/tag/v3.1.24), 2 days ago) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.1](https://github.com/dunglas/frankenphp/releases/tag/v1.0.1), 3 days ago) - The modern PHP app server
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.8.0](https://github.com/azjezz/psl/releases/tag/2.8.0), 4 weeks ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [KennedyTedesco/meilisearch-search-filter](https://github.com/KennedyTedesco/meilisearch-search-filter) ([v1.0](https://github.com/KennedyTedesco/meilisearch-search-filter/releases/tag/v1.0), 3 months ago) - A fluent and intuitive way to construct filters for Meilisearch queries.
