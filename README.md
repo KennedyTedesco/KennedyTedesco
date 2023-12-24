@@ -19,7 +19,7 @@ Curious what I've been working on recently?
 #### Latest releases I've contributed to 🆕
 
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.1.27](https://github.com/filamentphp/filament/releases/tag/v3.1.27), 2 days ago) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.1.28](https://github.com/filamentphp/filament/releases/tag/v3.1.28), today) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [laravel/octane](https://github.com/laravel/octane) ([v2.2.5](https://github.com/laravel/octane/releases/tag/v2.2.5), 2 days ago) - Supercharge your Laravel application&#39;s performance.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.1](https://github.com/dunglas/frankenphp/releases/tag/v1.0.1), 6 days ago) - The modern PHP app server 🧟
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.8.0](https://github.com/azjezz/psl/releases/tag/2.8.0), 1 month ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
