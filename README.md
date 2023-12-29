@@ -7,7 +7,7 @@ Curious what I've been working on recently?
 #### Check out what I'm currently working on 🚀
 
 
-- [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (1 day ago)
+- [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (2 days ago)
 - [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application&#39;s performance. (1 week ago)
 - [KennedyTedesco/monkey](https://github.com/KennedyTedesco/monkey) - The Monkey Programming Language &amp; Interpreter written in PHP. (1 month ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (1 month ago)
@@ -19,9 +19,9 @@ Curious what I've been working on recently?
 #### Latest releases I've contributed to 🆕
 
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.1.31](https://github.com/filamentphp/filament/releases/tag/v3.1.31), today) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
-- [laravel/octane](https://github.com/laravel/octane) ([v2.2.6](https://github.com/laravel/octane/releases/tag/v2.2.6), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.2), 3 days ago) - The modern PHP app server 🧟
+- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.1.31](https://github.com/filamentphp/filament/releases/tag/v3.1.31), 1 day ago) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.2.6](https://github.com/laravel/octane/releases/tag/v2.2.6), 3 days ago) - Supercharge your Laravel application&#39;s performance.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.2), 4 days ago) - The modern PHP app server 🧟
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.8.0](https://github.com/azjezz/psl/releases/tag/2.8.0), 1 month ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [KennedyTedesco/meilisearch-search-filter](https://github.com/KennedyTedesco/meilisearch-search-filter) ([v1.0](https://github.com/KennedyTedesco/meilisearch-search-filter/releases/tag/v1.0), 4 months ago) - A fluent and intuitive way to construct filters for Meilisearch queries.
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 10 months ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
