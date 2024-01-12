@@ -26,7 +26,7 @@ Curious what I've been working on recently?
 - [KennedyTedesco/meilisearch-search-filter](https://github.com/KennedyTedesco/meilisearch-search-filter) ([v1.0](https://github.com/KennedyTedesco/meilisearch-search-filter/releases/tag/v1.0), 4 months ago) - A fluent and intuitive way to construct filters for Meilisearch queries.
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 11 months ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.6.1](https://github.com/ara-lang/reporting/releases/tag/0.6.1), 11 months ago) - A Reporting library for for Ara Programming Language 📃
-- [ara-lang/highlighting](https://github.com/ara-lang/highlighting) ([v0.1.2](https://github.com/ara-lang/highlighting/releases/tag/v0.1.2), 1 year ago) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌
+- [ara-lang/source](https://github.com/ara-lang/source) ([0.2.0](https://github.com/ara-lang/source/releases/tag/0.2.0), 1 year ago) - A Source library for Ara Programming Language 🗃
 
 #### How to reach me
 
