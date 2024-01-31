@@ -24,7 +24,6 @@ Curious what I've been working on recently?
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.3](https://github.com/dunglas/frankenphp/releases/tag/v1.0.3), 3 weeks ago) - The modern PHP app server 🧟
 - [KennedyTedesco/meilisearch-search-filter](https://github.com/KennedyTedesco/meilisearch-search-filter) ([v1.0](https://github.com/KennedyTedesco/meilisearch-search-filter/releases/tag/v1.0), 5 months ago) - A fluent and intuitive way to construct filters for Meilisearch queries.
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 1 year ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
-- [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.6.1](https://github.com/ara-lang/reporting/releases/tag/0.6.1), 1 year ago) - A Reporting library for for Ara Programming Language 📃
 - [ara-lang/source](https://github.com/ara-lang/source) ([0.2.0](https://github.com/ara-lang/source/releases/tag/0.2.0), 1 year ago) - A Source library for Ara Programming Language 🗃
 
 #### How to reach me
