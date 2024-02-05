@@ -13,15 +13,15 @@ Curious what I've been working on recently?
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (3 months ago)
 - [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (4 months ago)
 - [KennedyTedesco/meilisearch-search-filter](https://github.com/KennedyTedesco/meilisearch-search-filter) - A fluent and intuitive way to construct filters for Meilisearch queries. (5 months ago)
-- [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS. (5 months ago)
+- [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS. (6 months ago)
 - [ara-lang/source](https://github.com/ara-lang/source) - A Source library for Ara Programming Language 🗃 (1 year ago)
 
 #### Latest releases I've contributed to 🆕
 
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.0](https://github.com/dunglas/frankenphp/releases/tag/v1.1.0), today) - The modern PHP app server 🧟
-- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.2.23](https://github.com/filamentphp/filament/releases/tag/v3.2.23), 3 days ago) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.2](https://github.com/laravel/octane/releases/tag/v2.3.2), 5 days ago) - Supercharge your Laravel application&#39;s performance.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.0](https://github.com/dunglas/frankenphp/releases/tag/v1.1.0), 1 day ago) - The modern PHP app server 🧟
+- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.2.23](https://github.com/filamentphp/filament/releases/tag/v3.2.23), 4 days ago) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.2](https://github.com/laravel/octane/releases/tag/v2.3.2), 6 days ago) - Supercharge your Laravel application&#39;s performance.
 - [KennedyTedesco/meilisearch-search-filter](https://github.com/KennedyTedesco/meilisearch-search-filter) ([v1.0](https://github.com/KennedyTedesco/meilisearch-search-filter/releases/tag/v1.0), 5 months ago) - A fluent and intuitive way to construct filters for Meilisearch queries.
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 1 year ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/source](https://github.com/ara-lang/source) ([0.2.0](https://github.com/ara-lang/source/releases/tag/0.2.0), 1 year ago) - A Source library for Ara Programming Language 🗃
