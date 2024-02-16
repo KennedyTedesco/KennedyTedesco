@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (1 month ago)
-- [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application&#39;s performance. (1 month ago)
+- [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application&#39;s performance. (2 months ago)
 - [KennedyTedesco/monkey](https://github.com/KennedyTedesco/monkey) - The Monkey Programming Language &amp; Interpreter written in PHP. (2 months ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (3 months ago)
 - [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (4 months ago)
@@ -18,8 +18,8 @@ Curious what I've been working on recently?
 #### Latest releases I've contributed to 🆕
 
 
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.3](https://github.com/laravel/octane/releases/tag/v2.3.3), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.2.34](https://github.com/filamentphp/filament/releases/tag/v3.2.34), 2 days ago) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.3](https://github.com/laravel/octane/releases/tag/v2.3.3), 3 days ago) - Supercharge your Laravel application&#39;s performance.
+- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.2.34](https://github.com/filamentphp/filament/releases/tag/v3.2.34), 3 days ago) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.0](https://github.com/dunglas/frankenphp/releases/tag/v1.1.0), 1 week ago) - The modern PHP app server 🧟
 - [KennedyTedesco/meilisearch-search-filter](https://github.com/KennedyTedesco/meilisearch-search-filter) ([v1.0](https://github.com/KennedyTedesco/meilisearch-search-filter/releases/tag/v1.0), 5 months ago) - A fluent and intuitive way to construct filters for Meilisearch queries.
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 1 year ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
