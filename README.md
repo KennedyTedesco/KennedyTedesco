@@ -18,7 +18,7 @@ Curious what I've been working on recently?
 #### Latest releases I've contributed to 🆕
 
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.2.54](https://github.com/filamentphp/filament/releases/tag/v3.2.54), today) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.2.55](https://github.com/filamentphp/filament/releases/tag/v3.2.55), today) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.1](https://github.com/dunglas/frankenphp/releases/tag/v1.1.1), today) - 🧟 The modern PHP app server
 - [laravel/octane](https://github.com/laravel/octane) ([v2.3.5](https://github.com/laravel/octane/releases/tag/v2.3.5), 1 week ago) - Supercharge your Laravel application&#39;s performance.
 - [KennedyTedesco/meilisearch-search-filter](https://github.com/KennedyTedesco/meilisearch-search-filter) ([v1.0](https://github.com/KennedyTedesco/meilisearch-search-filter/releases/tag/v1.0), 6 months ago) - A fluent and intuitive way to construct filters for Meilisearch queries.
