@@ -18,9 +18,9 @@ Curious what I've been working on recently?
 #### Latest releases I've contributed to 🆕
 
 
-- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.2.61](https://github.com/filamentphp/filament/releases/tag/v3.2.61), today) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
-- [laravel/octane](https://github.com/laravel/octane) ([v2.3.6](https://github.com/laravel/octane/releases/tag/v2.3.6), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.2](https://github.com/dunglas/frankenphp/releases/tag/v1.1.2), 2 days ago) - 🧟 The modern PHP app server
+- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.2.61](https://github.com/filamentphp/filament/releases/tag/v3.2.61), 1 day ago) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+- [laravel/octane](https://github.com/laravel/octane) ([v2.3.6](https://github.com/laravel/octane/releases/tag/v2.3.6), 2 days ago) - Supercharge your Laravel application&#39;s performance.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.2](https://github.com/dunglas/frankenphp/releases/tag/v1.1.2), 3 days ago) - 🧟 The modern PHP app server
 - [KennedyTedesco/meilisearch-search-filter](https://github.com/KennedyTedesco/meilisearch-search-filter) ([v1.0](https://github.com/KennedyTedesco/meilisearch-search-filter/releases/tag/v1.0), 7 months ago) - A fluent and intuitive way to construct filters for Meilisearch queries.
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 1 year ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 
