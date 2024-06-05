@@ -18,8 +18,8 @@ Curious what I've been working on recently?
 #### Latest releases I've contributed to 🆕
 
 
+- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.2.87-beta1](https://github.com/filamentphp/filament/releases/tag/v3.2.87-beta1), today) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [laravel/framework](https://github.com/laravel/framework) ([v11.10.0](https://github.com/laravel/framework/releases/tag/v11.10.0), 1 day ago) - The Laravel Framework.
-- [filamentphp/filament](https://github.com/filamentphp/filament) ([v3.2.85](https://github.com/filamentphp/filament/releases/tag/v3.2.85), 6 days ago) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.5](https://github.com/dunglas/frankenphp/releases/tag/v1.1.5), 3 weeks ago) - 🧟 The modern PHP app server
 - [KennedyTedesco/meilisearch-search-filter](https://github.com/KennedyTedesco/meilisearch-search-filter) ([v1.0](https://github.com/KennedyTedesco/meilisearch-search-filter/releases/tag/v1.0), 9 months ago) - A fluent and intuitive way to construct filters for Meilisearch queries.
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 1 year ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
