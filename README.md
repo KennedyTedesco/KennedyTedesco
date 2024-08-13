@@ -13,7 +13,6 @@ Curious what I've been working on recently?
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (9 months ago)
 - [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (10 months ago)
 - [KennedyTedesco/meilisearch-search-filter](https://github.com/KennedyTedesco/meilisearch-search-filter) - A fluent and intuitive way to construct filters for Meilisearch queries. (11 months ago)
-- [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS. (1 year ago)
 
 #### Latest releases I've contributed to 🆕
 
