@@ -12,7 +12,6 @@ Curious what I've been working on recently?
 - [KennedyTedesco/monkey](https://github.com/KennedyTedesco/monkey) - The Monkey Programming Language &amp; Interpreter written in PHP. (9 months ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (10 months ago)
 - [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (11 months ago)
-- [KennedyTedesco/meilisearch-search-filter](https://github.com/KennedyTedesco/meilisearch-search-filter) - A fluent and intuitive way to construct filters for Meilisearch queries. (1 year ago)
 
 #### Latest releases I've contributed to 🆕
 
