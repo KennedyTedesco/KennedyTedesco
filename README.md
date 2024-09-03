@@ -16,8 +16,8 @@ Curious what I've been working on recently?
 #### Latest releases I've contributed to 🆕
 
 
+- [laravel/framework](https://github.com/laravel/framework) ([v11.22.0](https://github.com/laravel/framework/releases/tag/v11.22.0), today) - The Laravel Framework.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.5](https://github.com/dunglas/frankenphp/releases/tag/v1.2.5), 1 week ago) - 🧟 The modern PHP app server
-- [laravel/framework](https://github.com/laravel/framework) ([v11.21.0](https://github.com/laravel/framework/releases/tag/v11.21.0), 2 weeks ago) - The Laravel Framework.
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 2 years ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 
 #### How to reach me
