@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (today)
-- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (2 days ago)
+- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (today)
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (8 months ago)
 - [KennedyTedesco/monkey](https://github.com/KennedyTedesco/monkey) - The Monkey Programming Language &amp; Interpreter written in PHP. (9 months ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (10 months ago)
