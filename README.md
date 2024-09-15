@@ -7,8 +7,8 @@ Curious what I've been working on recently?
 #### Check out what I'm currently working on 🚀
 
 
-- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (1 day ago)
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (3 days ago)
+- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (2 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (4 days ago)
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (8 months ago)
 - [KennedyTedesco/monkey](https://github.com/KennedyTedesco/monkey) - The Monkey Programming Language &amp; Interpreter written in PHP. (9 months ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (10 months ago)
@@ -17,7 +17,7 @@ Curious what I've been working on recently?
 #### Latest releases I've contributed to 🆕
 
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.23.5](https://github.com/laravel/framework/releases/tag/v11.23.5), 1 day ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.23.5](https://github.com/laravel/framework/releases/tag/v11.23.5), 2 days ago) - The Laravel Framework.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.5](https://github.com/dunglas/frankenphp/releases/tag/v1.2.5), 2 weeks ago) - 🧟 The modern PHP app server
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 2 years ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 
