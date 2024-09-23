@@ -12,7 +12,7 @@ Curious what I've been working on recently?
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (8 months ago)
 - [KennedyTedesco/monkey](https://github.com/KennedyTedesco/monkey) - The Monkey Programming Language &amp; Interpreter written in PHP. (10 months ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (10 months ago)
-- [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (11 months ago)
+- [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (1 year ago)
 
 #### Latest releases I've contributed to 🆕
 
