@@ -16,7 +16,7 @@ Curious what I've been working on recently?
 #### Latest releases I've contributed to 🆕
 
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.27.2](https://github.com/laravel/framework/releases/tag/v11.27.2), 5 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.27.2](https://github.com/laravel/framework/releases/tag/v11.27.2), 6 days ago) - The Laravel Framework.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.5](https://github.com/dunglas/frankenphp/releases/tag/v1.2.5), 1 month ago) - 🧟 The modern PHP app server
 
 #### How to reach me
