@@ -7,6 +7,7 @@ Curious what I've been working on recently?
 #### Check out what I'm currently working on 🚀
 
 
+- [KennedyTedesco/communication-task](https://github.com/KennedyTedesco/communication-task) -  (today)
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (1 month ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 month ago)
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (9 months ago)
