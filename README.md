@@ -7,8 +7,8 @@ Curious what I've been working on recently?
 #### Check out what I'm currently working on 🚀
 
 
-- [KennedyTedesco/refactoring-task](https://github.com/KennedyTedesco/refactoring-task) -  (today)
-- [KennedyTedesco/communication-task](https://github.com/KennedyTedesco/communication-task) -  (today)
+- [KennedyTedesco/refactoring-task](https://github.com/KennedyTedesco/refactoring-task) -  (1 day ago)
+- [KennedyTedesco/communication-task](https://github.com/KennedyTedesco/communication-task) -  (1 day ago)
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (1 month ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 month ago)
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (9 months ago)
@@ -18,7 +18,7 @@ Curious what I've been working on recently?
 #### Latest releases I've contributed to 🆕
 
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.28.1](https://github.com/laravel/framework/releases/tag/v11.28.1), 5 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.28.1](https://github.com/laravel/framework/releases/tag/v11.28.1), 6 days ago) - The Laravel Framework.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.5](https://github.com/dunglas/frankenphp/releases/tag/v1.2.5), 1 month ago) - 🧟 The modern PHP app server
 
 #### How to reach me
