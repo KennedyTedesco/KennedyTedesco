@@ -7,7 +7,6 @@ Curious what I've been working on recently?
 #### Check out what I'm currently working on 🚀
 
 
-- [KennedyTedesco/refactoring-task](https://github.com/KennedyTedesco/refactoring-task) -  (2 weeks ago)
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (1 month ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 month ago)
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (10 months ago)
