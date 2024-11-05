@@ -11,7 +11,6 @@ Curious what I've been working on recently?
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 month ago)
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (10 months ago)
 - [KennedyTedesco/monkey](https://github.com/KennedyTedesco/monkey) - The Monkey Programming Language &amp; Interpreter written in PHP. (11 months ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 year ago)
 
 #### Latest releases I've contributed to 🆕
 
