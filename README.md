@@ -7,7 +7,7 @@ Curious what I've been working on recently?
 #### Check out what I'm currently working on 🚀
 
 
-- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (1 month ago)
+- [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (2 months ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (2 months ago)
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (10 months ago)
 - [KennedyTedesco/monkey](https://github.com/KennedyTedesco/monkey) - The Monkey Programming Language &amp; Interpreter written in PHP. (11 months ago)
