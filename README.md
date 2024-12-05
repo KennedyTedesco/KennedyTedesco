@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My name is Kennedy Tedesco. I was born in Brazil 🇧🇷, and I'm also an Italian 🇮🇹 citizen. I primarily work with PHP, but I have a real crush on Rust, system-level programming, interpreters, parsers, and more.
+My name is Kennedy Tedesco. I was born in Brazil 🇧🇷, and I'm also an Italian 🇮🇹 citizen. I primarily work with PHP (a Laravel specialist), but I have a real crush on Rust, system-level programming, interpreters, parsers, and more.
 
 Curious what I've been working on recently?
 
@@ -18,6 +18,7 @@ Curious what I've been working on recently?
 
 #### How to reach me
 
-- Twitter: [@KennedyTedesco](https://twitter.com/KennedyTedesco)
+- Website: [https://kennedytedesco.dev](https://kennedytedesco.dev)
+- X: [@KennedyTedesco](https://x.com/KennedyTedesco)
 - Mastodon: [@KennedyTedesco](https://fosstodon.org/@KennedyTedesco)
 - Email: [kennedyt.tw@gmail.com](mailto://kennedyt.tw@gmail.com)
