@@ -7,14 +7,14 @@ Curious what I've been working on recently?
 #### Check out what I'm currently working on 🚀
 
 
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (5 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (6 days ago)
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (3 months ago)
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (11 months ago)
 
 #### Latest releases I've contributed to 🆕
 
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.35.1](https://github.com/laravel/framework/releases/tag/v11.35.1), 1 day ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.35.1](https://github.com/laravel/framework/releases/tag/v11.35.1), 2 days ago) - The Laravel Framework.
 
 #### How to reach me
 
