@@ -10,12 +10,12 @@ Curious what I've been working on recently?
 - [KennedyTedesco/monkey](https://github.com/KennedyTedesco/monkey) - The Monkey Programming Language &amp; Interpreter written in PHP. (1 week ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (2 weeks ago)
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (3 months ago)
-- [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (11 months ago)
+- [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (1 year ago)
 
 #### Latest releases I've contributed to 🆕
 
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.36.1](https://github.com/laravel/framework/releases/tag/v11.36.1), 6 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.36.1](https://github.com/laravel/framework/releases/tag/v11.36.1), 1 week ago) - The Laravel Framework.
 
 #### How to reach me
 
