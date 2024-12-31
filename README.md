@@ -10,7 +10,6 @@ Curious what I've been working on recently?
 - [KennedyTedesco/monkey](https://github.com/KennedyTedesco/monkey) - The Monkey Programming Language &amp; Interpreter written in PHP. (2 weeks ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (3 weeks ago)
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (3 months ago)
-- [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI (1 year ago)
 
 #### Latest releases I've contributed to 🆕
 
