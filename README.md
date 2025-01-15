@@ -7,14 +7,14 @@ Curious what I've been working on recently?
 #### Check out what I'm currently working on 🚀
 
 
-- [KennedyTedesco/monkey](https://github.com/KennedyTedesco/monkey) - The Monkey Programming Language &amp; Interpreter written in PHP. (4 weeks ago)
+- [KennedyTedesco/monkey](https://github.com/KennedyTedesco/monkey) - The Monkey Programming Language &amp; Interpreter written in PHP. (1 month ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 month ago)
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation. (4 months ago)
 
 #### Latest releases I've contributed to 🆕
 
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.38.1](https://github.com/laravel/framework/releases/tag/v11.38.1), today) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.38.2](https://github.com/laravel/framework/releases/tag/v11.38.2), today) - The Laravel Framework.
 
 #### How to reach me
 
