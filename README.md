@@ -14,7 +14,7 @@ Curious what I've been working on recently?
 #### Latest releases I've contributed to 🆕
 
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.39.1](https://github.com/laravel/framework/releases/tag/v11.39.1), 1 day ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.39.1](https://github.com/laravel/framework/releases/tag/v11.39.1), 2 days ago) - The Laravel Framework.
 
 #### How to reach me
 
