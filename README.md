@@ -61,3 +61,8 @@ Ara was a powerful, statically typed programming language that compiled directly
 I contributed to the project by adding new features, fixing bugs, and improving the overall codebase, primarily working on the parser written in Rust.
 
 You can find all my Ara Parser contributions [here](https://github.com/ara-lang/parser/commits?author=KennedyTedesco).
+
+### :zap: Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
