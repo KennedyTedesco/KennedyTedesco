@@ -37,7 +37,7 @@ Monkey is just a C-like language and its interpreter that I built to learn and u
 ---
 
 <p align="left" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/php-tui/php-tui"><img src="https://private-user-images.githubusercontent.com/530801/284617353-a5ea89fa-8f02-4c67-9467-4740c931f88f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk3MTE5ODUsIm5iZiI6MTczOTcxMTY4NSwicGF0aCI6Ii81MzA4MDEvMjg0NjE3MzUzLWE1ZWE4OWZhLThmMDItNGM2Ny05NDY3LTQ3NDBjOTMxZjg4Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxNlQxMzE0NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNTI0YzhkNmE1Zjc1MjMwMjIwNGMxZWJiYjc5Njk1M2RkNDc5MTMxZmFhMTE3NTMxZjEwNDM0MmFjZDA1ODEwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GHCmOrRU4PbXpPilpyKlT4AS2VDWIgsx4gsh9URFS7g" alt="PHP TUI Logo" width="75"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/php-tui/php-tui"><img src="https://raw.githubusercontent.com/KennedyTedesco/KennedyTedesco/refs/heads/main/resources/php-tui.png" alt="PHP TUI Logo" width="75"></a>
 </p>
 
 I'm one of the contributors to the [PHP TUI library](https://github.com/php-tui/php-tui).
