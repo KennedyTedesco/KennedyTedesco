@@ -9,8 +9,6 @@ My name is Kennedy Tedesco. I was born in Brazil 🇧🇷, and I'm also an Itali
 - Mastodon: [@KennedyTedesco](https://fosstodon.org/@KennedyTedesco)
 - Email: [kennedyt.tw@gmail.com](mailto://kennedyt.tw@gmail.com)
 
-I'm available for consulting, freelance work, and open-source contributions. If you have a project that you need help with, feel free to reach out to me.
-
 ### ✨ Latest projects I've contributed to:
 
 <p align="left"><a href="https://github.com/laravel/framework/commits?author=KennedyTedesco" rel="nofollow"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="125" alt="Laravel Logo"></a></p>
