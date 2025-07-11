@@ -17,6 +17,7 @@ I've been contributing to Laravel since **2013** and am proudly the **18th most 
 
 Latest features contributions I've made:
 
+- [12.x] Add `collection()` to `Config` repository [#56200](https://github.com/laravel/framework/pull/52688)](https://github.com/laravel/framework/pull/56200)
 - [11.x] Add `fromUrl()` to `Attachment` [#52688](https://github.com/laravel/framework/pull/52688)
 - [11.x] add `withoutDelay()` to `PendingDispatch` [#52696](https://github.com/laravel/framework/pull/52696)
 - [11.x] Add `Skip` middleware for Queue Jobs [#52697](https://github.com/laravel/framework/pull/52645)
