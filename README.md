@@ -17,6 +17,7 @@ I've been contributing to Laravel since **2013** and am proudly the **18th most 
 
 Latest features contributions I've made:
 
+- [12.x] Add `@includeIsolated` directive for isolated Blade includes. [#58311](https://github.com/laravel/framework/pull/58311) 
 - [12.x] Add `InteractsWithData` trait to `ComponentAttributeBag` [#56452](https://github.com/laravel/framework/pull/56452)
 - [12.x] Add `collection()` to `Config` repository [#56200](https://github.com/laravel/framework/pull/56200)
 - [11.x] Add `fromUrl()` to `Attachment` [#52688](https://github.com/laravel/framework/pull/52688)
